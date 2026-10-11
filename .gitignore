@@ -39,3 +39,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ai, agents, skills, playbooks
+.agents/
+.agent/
+.agentskills/
+.gemini/
+.cursor/
+.windsurf/
+.claude/
+.copilot/
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+COPILOT.md
+CURSOR.md
+PLAYBOOK.md
+playbooks/
+skills/
+*.prompt.md
+*.prompt
+.prompt
